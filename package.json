@@ -20,10 +20,10 @@
     "API",
     "ExpressJS"
   ],
-  "author": "Marcos Silva",
+  "author": "Yasniel Fajardo Egues",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/yasniel1408/skeleton-backend-node-typescript"
   },
   "homepage": "",
   "dependencies": {

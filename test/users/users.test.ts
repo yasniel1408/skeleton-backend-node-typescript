@@ -6,7 +6,7 @@ import mongoose from 'mongoose';
 
 let firstUserIdTest = '';
 const firstUserBody = {
-    email: `marcos.henrique+${shortid.generate()}@toptal.com`,
+    email: `example+${shortid.generate()}@example.com`,
     password: 'Sup3rSecret!23',
 };
 

@@ -3,6 +3,7 @@ import jwt from 'jsonwebtoken';
 import crypto from 'crypto';
 import { Jwt } from '../../common/types/jwt';
 import usersService from '../../users/services/users.service';
+import { logger } from 'express-winston';
 
 // @ts-expect-error
 const jwtSecret: string = process.env.JWT_SECRET;
